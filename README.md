@@ -1,2 +1,2 @@
 # Memory-game
-记忆翻牌小游戏，每次可翻两张牌
+One time can click two cards, will disappear after a certain time, when click two same cards will not disappear, until all found out
